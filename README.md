@@ -58,6 +58,19 @@ Welcome to my GitHub profile! I'm a dedicated and detail-oriented **Senior Backe
 
 ---
 
+
+### 📊 GitHub Stats
+
+  ![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=talha-bin-ashraf&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp; &nbsp;   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talha-bin-ashraf&layout=compact&theme=github_dark)
+
+---
+<h3>Find & contact me</h3>
+<p>
+
+ 
+<a href="https://www.linkedin.com/in/talha-bin-ashraf-18b602206/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mailto:talhaashraf131@gmail.com">
+ <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.facebook.com/share/1CEgji6QZ5/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>  <a href="https://wa.me/923126995341"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
 ### 📢 Quote I Live By
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
